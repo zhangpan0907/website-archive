@@ -9,6 +9,6 @@
   "author": "The Coding Train / Daniel Shiffman",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^12.4.1"
+    "discord.js": "^13.14.0"
   }
 }
