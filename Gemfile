@@ -11,7 +11,7 @@ source "https://rubygems.org"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "github-pages"
+  gem "github-pages", ">= 224"
   gem 'jekyll-seo-tag'
 end
 
